@@ -1,4 +1,4 @@
-# 👾 Tiny Battle
+# 👾 Recycling Battle
 
  🎮 Projeto produzido na UNITY, para um trabalho educacional sobre reciclagem.
   <br/>
