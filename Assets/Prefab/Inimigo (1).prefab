@@ -183,9 +183,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a29f6168d3d001478b870c1142d2ff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 5
   minDistance: 1
-  maxHealth: 50
+  maxHealth: 30
   damageToPlayer: 2
   deathEffectPrefab: {fileID: 8369900080140335746, guid: 3a35c6d94127b764490471b7342227fa, type: 3}
   projectilePrefab: {fileID: 7472914720277380486, guid: 832c8265390b8c54fb12148ebd372a51, type: 3}
