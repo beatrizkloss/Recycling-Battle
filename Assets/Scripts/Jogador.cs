@@ -152,7 +152,7 @@ public class Jogador : MonoBehaviour
 
     void Die()
     {
-        // Adicione aqui qualquer lógica de morte do jogador, como animações, efeitos sonoros, etc.
+       //Chamar morte --> dava para fazer de outra forma
         Morrer();
     }
 
