@@ -1,17 +1,12 @@
 # 👾 Recycling Battle
 
- 🎮 Projeto produzido na UNITY, para um trabalho educacional sobre reciclagem.
-  <br/>
-  <br/>
- 🖥 Em desenvolvimento.
- <br/>
-  <br/>
- 🕹️ Inspirado no Vampire Survivors.
-
+ 🎮Esse é um protótipo de jogo 2D que foi criado para um projeto educacional sobre reciclagem. Inspirado no Vampire Survivors,
+ o jogo segue uma mecânica roguelike com uma visão top-down e gráficos pixel art. A ideia é envolver os jogadores no mundo da reciclagem,
+ enfrentando desafios enquanto aprendem a importância de preservar o planeta.
 
 
 ## Preview
-
+![Preview](./Assets/img/preview1.png)![Preview](./Assets/img/preview2.png)
 
 ## Controles
 ```
